@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roster>
+   <player id="1">
+      <firstname>Billy</firstname>
+      <lastname>Smith</lastname>
+	  <position>First Base</position>
+      <battingaverage>243</battingaverage>
+   </player>
+   <player id="5">
+      <firstname>Pablo</firstname>
+      <lastname>Shancez</lastname>
+      <battingaverage>302</battingaverage>
+   </player>
+   <player id="274">
+      <firstname>Lupo</firstname>
+      <lastname>Hanz</lastname>
+	  <position>Pitcher</position>
+      <battingaverage>115</battingaverage>
+   </player>
+   <player id="147">
+      <firstname>Albert</firstname>
+      <lastname>Sanders</lastname>
+	  <position>Outfield</position>
+      <battingaverage>214</battingaverage>
+   </player>
+</roster>
